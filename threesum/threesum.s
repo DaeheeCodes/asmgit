@@ -1,6 +1,6 @@
 .section .data
 
-prompt: .asciz "Hi there! Please type in three integer values (seperated by a space): "
+prompt: .asciz "Hello, Please input three integers you want to add (seperated by a space): "
 
 response: .asciz "You enter %d, %d, and %d. The sum of the three numbers is %d\n"
 
